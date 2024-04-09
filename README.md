@@ -1,3 +1,5 @@
+[![Java CI with Gradle](https://github.com/yalosyash/aqa-homeworks-basics/actions/workflows/Gradle.yml/badge.svg)](https://github.com/yalosyash/aqa-homeworks-basics/actions/workflows/Gradle.yml)
+
 # Домашнее задание к занятию «1.1. Основы автоматизации»
 
 [Инструкция по созданию нового проекта](project_creation)
